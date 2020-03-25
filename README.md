@@ -26,4 +26,5 @@ Front, rear 은 -1로, 배열은 공백으로 초기화
 출력 화면>
 <div>
 <img src="">
+<img src="">
 </div>
