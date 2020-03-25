@@ -25,6 +25,6 @@ Front, rear 은 -1로, 배열은 공백으로 초기화
 
 출력 화면>
 <div>
-<img width="500" src="https://user-images.githubusercontent.com/60779441/77488248-ffccd900-6e77-11ea-9d13-c9cd1b796cc9.png">
-<img width="500" src="https://user-images.githubusercontent.com/60779441/77488250-02c7c980-6e78-11ea-9cd1-3c190b789f04.png">
+<img width="700" src="https://user-images.githubusercontent.com/60779441/77488248-ffccd900-6e77-11ea-9d13-c9cd1b796cc9.png">
+<img width="700" src="https://user-images.githubusercontent.com/60779441/77488250-02c7c980-6e78-11ea-9cd1-3c190b789f04.png">
 </div>
